@@ -1,1 +1,1 @@
-In this short code I'm routing from one compose to other. By clicking on the "Next Screen" button the UI is updated the next screen and camera will be opened with "Open Camera" button and permission will be asked - if granted then camera will be open if not then a pop up message will be shown showing permission not granted.
+I'm using implicit intent to route between screens. Clicking "Next Screen" updates the UI. The "Open Camera" button prompts permission to access the camera. If granted, the camera opens or else shows a pop-up for denied permission.
